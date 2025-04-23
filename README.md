@@ -45,7 +45,6 @@ CUDA_VISIBLE_DEVICES="0" python3 ./main.py --mode train \
 - --using_quantization True : 모델을 저장할때 양자화를 수행합니다.  
 - 학습을 시작하면 `logs` 폴더안에 **코드를 실행한 시각**을 이름으로하는 log파일이 생성됩니다.
 - model 폴더 안에 모델이 Epoch 별로 저장됩니다.
-- 모델 선택
 
 ## Testing
 ---
