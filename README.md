@@ -3,7 +3,7 @@
 ## Overview
 ---
 <img src=./assets/method.png/>
-본 메소드에 대한 상세한 설명은 [proposed_method.md](./proposed_method.md) 문서를 참고해 주세요.
+본 메소드에 대한 상세한 설명은 [proposed_method.md](https://github.com/minho511/Fashion-How-Season-5/blob/main/proposed_method.md) 문서를 참고해 주세요.
 
 ## Prerequisites
 ---
